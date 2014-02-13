@@ -3,7 +3,10 @@ My Angular Resources
 
 Since I jumped into the deep end of AngularJS development, I keep collecting things but quickly lose track of them.  This is for my own personal organizational purposes but for sharing as well.  I take no credit or blame for what is at the other end.  Freely share this list if you find it of value and drop me a note if you have a suggestion.
 
-[Matt Thebert](mailto:matt@thebert.com)
+Matt Thebert  
+[Email](mailto:matt@thebert.com)  
+[Twitter](https://twitter.com/matt_thebert)
+[LinkedIn](http://www.linkedin.com/profile/view?id=89331221)
 
 Last Updated - 2/13/2014
 
