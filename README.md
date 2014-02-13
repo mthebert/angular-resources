@@ -5,26 +5,27 @@ Since I jumped into the deep end of AngularJS development, I keep collecting thi
 
 [Matt Thebert](mailto:matt@thebert.com)
 
-Sections
-Learning about Angular - Books, Videos, Tutorials
-Extending the Development Stack - Modules, Libraries, Packages, Extensions, IDEs
-Resources and Recreational Reads - Blogs, Websites
+Sections  
+Learning about Angular - Books, Videos, Tutorials  
+Extending the Development Stack - Modules, Libraries, Packages, Extensions, IDEs  
+Resources and Recreational Reads - Blogs, Websites  
 
 Learning About Angular
 ======================
 
 Books
 -----
-[ng-book - Ari Lerner, Leanpub](https://leanpub.com/ng-book)
-[AngularJS Cheat Sheet - Proloser](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
-[Mastering Web Application Development with AngularJS - Pavel Kozlowski & Peter Bacon Darwin, PacktPub](http://www.packtpub.com/angularjs-web-application-development/book)
-[AngularJS - Brad Green & Shyam Seshadri, O'Reilly](http://shop.oreilly.com/product/0636920028055.do)
-[Dependency Injection with AngularJS - Alex Knol, PacktPub](http://www.packtpub.com/dependency-injection-angularjs/book)
-[AngularJS Directives - Alex Vanston, PacktPub](http://www.packtpub.com/angularjs-directives/book)
-[Instant AngularJS Starter - Dan Menard, PacktPub](http://www.packtpub.com/angularjs-to-build-dynamic-web-applications/book)
-[PDF of Dan Wahlin's AngularJS Fundamentals in 60-ish Minutes Presentation](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
-[Recipes with Angular.js - Frederik Dietz, Leanpub](https://leanpub.com/recipes-with-angular-js/read)
-[D3 on AngularJS - Ari Lerner & Victor Powell, LeanPub](https://leanpub.com/d3angularjs)
+[ng-book - Ari Lerner, Leanpub](https://leanpub.com/ng-book)  
+[AngularJS Cheat Sheet - Proloser](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)  
+[Mastering Web Application Development with AngularJS - Pavel Kozlowski & Peter Bacon Darwin, PacktPub](http://www.packtpub.com/angularjs-web-application-development/book)  
+[AngularJS - Brad Green & Shyam Seshadri, O'Reilly](http://shop.oreilly.com/product/0636920028055.do)  
+[Dependency Injection with AngularJS - Alex Knol, PacktPub](http://www.packtpub.com/dependency-injection-angularjs/book)  
+[AngularJS Directives - Alex Vanston, PacktPub](http://www.packtpub.com/angularjs-directives/book)  
+[Instant AngularJS Starter - Dan Menard, PacktPub](http://www.packtpub.com/angularjs-to-build-dynamic-web-applications/book)  
+[PDF of Dan Wahlin's AngularJS Fundamentals in 60-ish Minutes Presentation](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)  
+[Recipes with Angular.js - Frederik Dietz, Leanpub](https://leanpub.com/recipes-with-angular-js/read)  
+[D3 on AngularJS - Ari Lerner & Victor Powell, LeanPub](https://leanpub.com/d3angularjs)  
+
 
 Online Courses
 --------------
