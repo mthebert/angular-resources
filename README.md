@@ -72,10 +72,9 @@ Bootstrap
 [Angular Bootstrap DateTimePicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker)  
 [Angular Bootstrap Nav Tree](https://github.com/nickperkinslondon/angular-bootstrap-nav-tree)  
 
-Underscore.js - JS Library
+Bower - Dependency Manager
 --------------------------
-[Underscore.js site](http://underscorejs.org/)  
-[Getting Cozy with Underscore article](http://code.tutsplus.com/tutorials/getting-cozy-with-underscorejs--net-24581)  
+[Bower Site](http://bower.io/) 
 
 Grunt - Taskrunner
 ------------------
@@ -86,18 +85,19 @@ Node.js
 ----
 [Node.js](http://nodejs.org/)  
 
-Yeoman - Web Scaffolding Tool
------------------------------
-[Yeoman Site](http://yeoman.io/)  
-
-Bower - Dependency Manager
---------------------------
-[Bower Site](http://bower.io/)  
-
 Testing
 -------
 [QUnit](http://qunitjs.com/)  
 [Jasmine - Behavior-driven development framework](http://pivotal.github.io/jasmine/)  
+
+Underscore.js - JS Library
+--------------------------
+[Underscore.js site](http://underscorejs.org/)  
+[Getting Cozy with Underscore article](http://code.tutsplus.com/tutorials/getting-cozy-with-underscorejs--net-24581)  
+
+Yeoman - Web Scaffolding Tool
+-----------------------------
+[Yeoman Site](http://yeoman.io/)  
 
 Angular and IDE's
 -----------------
