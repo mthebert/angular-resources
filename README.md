@@ -5,6 +5,8 @@ Since I jumped into the deep end of AngularJS development, I keep collecting thi
 
 [Matt Thebert](mailto:matt@thebert.com)
 
+Last Updated - 2/13/2014
+
 Sections
 --------  
 [Learning about Angular](https://github.com/mthebert/angular-resources#learning-about-angular) - Books, Videos, Tutorials  
@@ -74,12 +76,18 @@ Bootstrap
 
 Bower - Dependency Manager
 --------------------------
-[Bower Site](http://bower.io/) 
+[Bower Site](http://bower.io/)  
+
+Git
+--- 
 
 Grunt - Taskrunner
 ------------------
 [Grunt Site](http://gruntjs.com/)  
 [GruntJS Training Videos and Tutorials on Egghead.io](https://egghead.io/tags/GruntJS)  
+
+JavaScript
+----------
 
 Node.js
 ----
@@ -129,3 +137,8 @@ Blogs
 [John Papa's Blog](http://www.johnpapa.net/)  
 [Year of Moo](http://www.yearofmoo.com/)  
 [JavaScript Jabber Podcast](http://javascriptjabber.com/episode-guide/)  
+
+Groups
+------
+
+
