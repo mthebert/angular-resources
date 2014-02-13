@@ -5,10 +5,11 @@ Since I jumped into the deep end of AngularJS development, I keep collecting thi
 
 [Matt Thebert](mailto:matt@thebert.com)
 
-Sections  
-Learning about Angular - Books, Videos, Tutorials  
-Extending the Development Stack - Modules, Libraries, Packages, Extensions, IDEs  
-Resources and Recreational Reads - Blogs, Websites  
+Sections
+--------  
+[Learning about Angular](https://github.com/mthebert/angular-resources#learning-about-angular) - Books, Videos, Tutorials  
+[Extending the Development Stack](https://github.com/mthebert/angular-resources#extending-the-development-stack) - Modules, Libraries, Packages, Extensions, IDEs  
+[Resources and Recreational Reads](https://github.com/mthebert/angular-resources#resources-and-recreational-reads) - Blogs, Websites  
 
 Learning About Angular
 ======================
