@@ -23,12 +23,14 @@ Books
 [AngularJS Cheat Sheet - Proloser](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)  
 [Mastering Web Application Development with AngularJS - Pavel Kozlowski & Peter Bacon Darwin, PacktPub](http://www.packtpub.com/angularjs-web-application-development/book)  
 [AngularJS - Brad Green & Shyam Seshadri, O'Reilly](http://shop.oreilly.com/product/0636920028055.do)  
+[Angular in Action, Manning *early release*](http://www.manning.com/bford/)
 [Dependency Injection with AngularJS - Alex Knol, PacktPub](http://www.packtpub.com/dependency-injection-angularjs/book)  
 [AngularJS Directives - Alex Vanston, PacktPub](http://www.packtpub.com/angularjs-directives/book)  
 [Instant AngularJS Starter - Dan Menard, PacktPub](http://www.packtpub.com/angularjs-to-build-dynamic-web-applications/book)  
 [PDF of Dan Wahlin's AngularJS Fundamentals in 60-ish Minutes Presentation](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)  
 [Recipes with Angular.js - Frederik Dietz, Leanpub](https://leanpub.com/recipes-with-angular-js/read)  
 [D3 on AngularJS - Ari Lerner & Victor Powell, LeanPub](https://leanpub.com/d3angularjs)  
+
 
 
 Online Courses
@@ -40,6 +42,7 @@ Online Courses
 [Building Apps with Angular and Breeze - John Papa, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=build-apps-angular-breeze)  
 [Play by Play: Shawn Wildermuth building a flight chooser with AngularJS, Bootstrap and AmplifyJS on Pluralsight](http://pluralsight.com/training/courses/TableOfContents?courseName=play-by-play-wildermuth)  
 [Up and Running with AngularJS - Joseph LeBlanc, Lynda](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/133318-2.html)  
+[Angular in Depth - Lukas Ruebbelke, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=angularjs-in-depth)
 [Easier Javascript Apps with AngularJS - Tom Ashworth, Tutsplus](https://tutsplus.com/course/easier-js-apps-with-angular/)  
 
 Free Web Tutorials
@@ -54,7 +57,7 @@ Free Web Tutorials
 General Videos
 ------
 [The AngularJS YouTube Channel](https://www.youtube.com/user/angularjs)  
-[Simpulton's YouTube Channel](https://www.youtube.com/user/simpulton)  
+[Simpulton's YouTube Channel - Lukas Ruebbelke](https://www.youtube.com/user/simpulton)  
 
 Extending the Development Stack
 ===============================
@@ -81,6 +84,7 @@ Bower - Dependency Manager
 
 Git
 --- 
+[Book, Git Magic - Ben Lynn](http://www-cs-students.stanford.edu/~blynn/gitmagic/book.pdf)
 
 Grunt - Taskrunner
 ------------------
@@ -138,6 +142,7 @@ Blogs
 [John Papa's Blog](http://www.johnpapa.net/)  
 [Year of Moo](http://www.yearofmoo.com/)  
 [JavaScript Jabber Podcast](http://javascriptjabber.com/episode-guide/)  
+[One Hungry Mind - Lukas Ruebbelke's Blog](http://onehungrymind.com/)
 
 Groups
 ------
