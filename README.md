@@ -6,7 +6,8 @@ Since I jumped into the deep end of AngularJS development, I keep collecting thi
 Matt Thebert  
 [Email](mailto:matt@thebert.com)  |  [Twitter](https://twitter.com/matt_thebert)  |  [LinkedIn](http://www.linkedin.com/profile/view?id=89331221)  
 
-Last Updated - 2/13/2014
+Last Updated - 2/17/2014
+
 
 Sections
 --------  
@@ -14,44 +15,45 @@ Sections
 [Extending the Development Stack](https://github.com/mthebert/angular-resources#extending-the-development-stack) - Modules, Libraries, Packages, Extensions, IDEs  
 [Resources and Recreational Reads](https://github.com/mthebert/angular-resources#resources-and-recreational-reads) - Blogs, Websites  
 
+
 Learning About Angular
 ======================
 
 Books
 -----
-[ng-book - Ari Lerner, Leanpub](https://leanpub.com/ng-book)  
-[AngularJS Cheat Sheet - Proloser](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)  
-[Mastering Web Application Development with AngularJS - Pavel Kozlowski & Peter Bacon Darwin, PacktPub](http://www.packtpub.com/angularjs-web-application-development/book)  
-[AngularJS - Brad Green & Shyam Seshadri, O'Reilly](http://shop.oreilly.com/product/0636920028055.do)  
 [Angular in Action, Manning *early release*](http://www.manning.com/bford/)
-[Dependency Injection with AngularJS - Alex Knol, PacktPub](http://www.packtpub.com/dependency-injection-angularjs/book)  
+[AngularJS - Brad Green & Shyam Seshadri, O'Reilly](http://shop.oreilly.com/product/0636920028055.do)  
+[AngularJS Cheat Sheet - Proloser](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)  
 [AngularJS Directives - Alex Vanston, PacktPub](http://www.packtpub.com/angularjs-directives/book)  
-[Instant AngularJS Starter - Dan Menard, PacktPub](http://www.packtpub.com/angularjs-to-build-dynamic-web-applications/book)  
-[PDF of Dan Wahlin's AngularJS Fundamentals in 60-ish Minutes Presentation](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)  
-[Recipes with Angular.js - Frederik Dietz, Leanpub](https://leanpub.com/recipes-with-angular-js/read)  
+[AngularJS Fundamentals in 60-ish Minutes Presentation (PDF)](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)  
 [D3 on AngularJS - Ari Lerner & Victor Powell, LeanPub](https://leanpub.com/d3angularjs)  
-
-
+[Dependency Injection with AngularJS - Alex Knol, PacktPub](http://www.packtpub.com/dependency-injection-angularjs/book)  
+[Instant AngularJS Starter - Dan Menard, PacktPub](http://www.packtpub.com/angularjs-to-build-dynamic-web-applications/book)  
+[Mastering Web Application Development with AngularJS - Pavel Kozlowski & Peter Bacon Darwin, PacktPub](http://www.packtpub.com/angularjs-web-application-development/book)  
+[ng-book - Ari Lerner, Leanpub](https://leanpub.com/ng-book) 
+[Recipes with Angular.js - Frederik Dietz, Leanpub](https://leanpub.com/recipes-with-angular-js/read)  
 
 Online Courses
 --------------
-[AngularJS Fundamentals - Joe Eames, Jim Cooper, PluralSight - AWESOME!](http://pluralsight.com/training/courses/TableOfContents?courseName=angularjs-fundamentals)  
 [Angular Best Practices - Joe Eames, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=angular-best-practices)  
-[Building AngularJS and Node.js Apps with the MEAN Stack - Joe Eames, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=building-angularjs-nodejs-apps-mean)  
+[Angular in Depth - Lukas Ruebbelke, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=angularjs-in-depth)
+[AngularJS and Code Testability - Misko Hevery, Frontend Masters](https://frontendmasters.com/courses/angularjs-and-code-testability/)
+[AngularJS Fundamentals - Joe Eames, Jim Cooper, PluralSight - AWESOME!](http://pluralsight.com/training/courses/TableOfContents?courseName=angularjs-fundamentals)  
+[AngularJS Site Tutorial](http://docs.angularjs.org/tutorial)
 [Application Building Practices with AngularJS - Rob Conery, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=show-me-angular)  
+[Building AngularJS and Node.js Apps with the MEAN Stack - Joe Eames, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=building-angularjs-nodejs-apps-mean)  
 [Building Apps with Angular and Breeze - John Papa, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=build-apps-angular-breeze)  
+[Easier Javascript Apps with AngularJS - Tom Ashworth, Tutsplus](https://tutsplus.com/course/easier-js-apps-with-angular/)  
 [Play by Play: Shawn Wildermuth building a flight chooser with AngularJS, Bootstrap and AmplifyJS on Pluralsight](http://pluralsight.com/training/courses/TableOfContents?courseName=play-by-play-wildermuth)  
 [Up and Running with AngularJS - Joseph LeBlanc, Lynda](http://www.lynda.com/AngularJS-tutorials/Up-Running-AngularJS/133318-2.html)  
-[Angular in Depth - Lukas Ruebbelke, PluralSight](http://pluralsight.com/training/courses/TableOfContents?courseName=angularjs-in-depth)
-[Easier Javascript Apps with AngularJS - Tom Ashworth, Tutsplus](https://tutsplus.com/course/easier-js-apps-with-angular/)  
 
 Free Web Tutorials
 -------------
-[Dan Wahlin's AWESOME AngularJS Fundamentals in 60-ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)  
+[AngularJS Fundamentals in 60-ish Minutes, Dan Wahlin - Awesome place to start!](https://www.youtube.com/watch?v=i9MHigUZKEM)  
 [AngularJS Training Videos and Tutorials on Egghead.io](https://egghead.io/tags/AngularJS)  
 [Creating Apps with Angular and Node using Yeoman](http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman)    
+[Learn AngularJS in 30 minutes - Revill](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)  
 [Los Techies Intro to Angular](http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/)     
-[AngularJS Tutorial - Learn AngularJS in 30 minutes - Revill](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)  
 [Step-by-step guide to your first AngularJS App](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 
 General Videos
@@ -59,25 +61,26 @@ General Videos
 [The AngularJS YouTube Channel](https://www.youtube.com/user/angularjs)  
 [Simpulton's YouTube Channel - Lukas Ruebbelke](https://www.youtube.com/user/simpulton)  
 
+
 Extending the Development Stack
 ===============================
 
 Things that make AngularJS Better
 ---------------------------------
 [Angular Modules](http://ngmodules.org/)  
-[AngularUI](http://angular-ui.github.io/)  
-[Chrome Batarang Extension](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)  
 [Angular Seed for starting a base Angular app](https://github.com/angular/angular-seed)  
+[AngularUI](http://angular-ui.github.io/)  
+[Chrome Batarang Extension](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) 
 
 Bootstrap
 ---------
-[Bootstrap](http://getbootstrap.com)  
-[Book, Bootstrap - Jake Spurlock, O'Reilly](http://shop.oreilly.com/product/0636920027867.do)  
-[Book, Twitter Bootstrap Web Development How-To - David Cochran, PacktPub](http://www.packtpub.com/twitter-bootstrap-web-development/book)  
-[AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/)  
+[Bootstrap Site](http://getbootstrap.com)  
 [Angular Bootstrap DateTimePicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker)  
-[Angular Bootstrap Nav Tree](https://github.com/nickperkinslondon/angular-bootstrap-nav-tree)  
-
+[Angular Bootstrap Nav Tree](https://github.com/nickperkinslondon/angular-bootstrap-nav-tree) 
+[AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/)  
+[Bootstrap (Book) - Jake Spurlock, O'Reilly](http://shop.oreilly.com/product/0636920027867.do)  
+[Twitter Bootstrap Web Development How-To (Book) - David Cochran, PacktPub](http://www.packtpub.com/twitter-bootstrap-web-development/book)  
+ 
 Bower - Dependency Manager
 --------------------------
 [Bower Site](http://bower.io/)  
@@ -100,29 +103,36 @@ Node.js
 
 Testing
 -------
+[Jasmine - Behavior-driven development framework](http://pivotal.github.io/jasmine/) 
 [QUnit](http://qunitjs.com/)  
-[Jasmine - Behavior-driven development framework](http://pivotal.github.io/jasmine/)  
-
-Underscore.js - JS Library
+ 
+Underscore and Lodash - JS Libraries
 --------------------------
 [Underscore.js site](http://underscorejs.org/)  
 [Getting Cozy with Underscore article](http://code.tutsplus.com/tutorials/getting-cozy-with-underscorejs--net-24581)  
+[Lo-Dash site](http://lodash.com/)
+[Lo-Dash Introduction Video](http://vimeo.com/44154599)
+
+Sugar - JS Library
+------------------
+[SugarJS Site](http://sugarjs.com/)
 
 Yeoman - Web Scaffolding Tool
 -----------------------------
-[Yeoman Site](http://yeoman.io/)  
+[Yeoman Site](http://yeoman.io/) 
+[Yeoman Codelab - Build a Todo app with Yeoman, AngularJS, Grunt and Bower](http://yeoman.io/codelab.html )
 
 Angular and IDE's
 -----------------
-[Angular and WebStorm](http://pkozlowskios.wordpress.com/2012/07/15/live-templates-for-angular-js-in-webstorm/)  
+[Sublime Package for Angular](https://github.com/angular-ui/AngularJS-sublime-package)  
+[Textmade Bundle for Angular](https://github.com/angular-ui/AngularJs.tmbundle)  
+[WebStorm and Angular - Live Templates](http://pkozlowskios.wordpress.com/2012/07/15/live-templates-for-angular-js-in-webstorm/)
 [Webstorm Tips and Tricks videos on Egghead.io](https://egghead.io/tags/WebStorm)  
-[Angular-Sublime Package](https://github.com/angular-ui/AngularJS-sublime-package)  
-[AngularJS Textmade Bundle](https://github.com/angular-ui/AngularJs.tmbundle)  
 
 Charting and Visualization
 --------------------------
 [Angles.JS - a Chart.js wrapper for Angular](http://lgsilver.github.io/angles/)  
-[Introduction to D3 Videos on Egghead.io](https://egghead.io/series/introduction-to-d3)  
+[D3 - Introduction to D3 Videos on Egghead.io](https://egghead.io/series/introduction-to-d3)  
 
 
 Resources and Recreational Reads
@@ -131,18 +141,20 @@ Resources and Recreational Reads
 Websites
 --------
 [The AngularJS Website](angularjs.org)  
+[Angular Best Practices](https://github.com/joeeames/AngularBestPracticesFiles)
+[AngularJS Hub](http://www.angularjshub.com/examples/)  
 [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/README.md) - I found this, looks like someone already had a similar idea to me...  
 [Angular Wiki](https://github.com/tourbuzz/angular-wiki) - Another similar resource page  
-[Angular Best Practices](https://github.com/joeeames/AngularBestPracticesFiles)  
-[AngularJS Hub](http://www.angularjshub.com/examples/)  
-
+  
 Blogs
 -----
 [Angular JS Blog](http://blog.angularjs.org/)  
-[John Papa's Blog](http://www.johnpapa.net/)  
-[Year of Moo](http://www.yearofmoo.com/)  
 [JavaScript Jabber Podcast](http://javascriptjabber.com/episode-guide/)  
+[Joel Hooks](http://joelhooks.com/)
+[John Papa's Blog](http://www.johnpapa.net/)  
+[ng-newsletter](http://www.ng-newsletter.com)
 [One Hungry Mind - Lukas Ruebbelke's Blog](http://onehungrymind.com/)
+[Year of Moo](http://www.yearofmoo.com/)  
 
 Groups
 ------
