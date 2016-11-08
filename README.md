@@ -103,7 +103,7 @@ Node.js
 
 Testing
 -------
-[Jasmine - Behavior-driven development framework](http://pivotal.github.io/jasmine/) 
+[Jasmine - Behavior-driven development framework](https://jasmine.github.io/) 
 [QUnit](http://qunitjs.com/)  
  
 Underscore and Lodash - JS Libraries
